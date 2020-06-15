@@ -2,7 +2,7 @@
 #### 一、作品描述
 **主要学习express与mysql搭配使用构建后端数据api，无非就是CRUD哈哈**
 先看看渣渣的效果嘻嘻
-![](./Vue%2BNodeJs实战%2BMySQL-Todo_md_files/image_20200531155304.png?v=1&type=image&token=V1:gxiA3gRM_kW5qTpsZAS4lu4lMoMn6ncCrb0NfOjdG0c)
+![](./Vue%2BNodeJs实战%2BMySQL-Todo_md_files/image_20200531155304.png)
 #### 二、技术栈
 
  1. 前端
